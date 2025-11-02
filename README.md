@@ -1,6 +1,6 @@
 # My_Uber_Drives_Analysis_Project_-_2016
-# Data Science
-### 🚗 My Uber Drives Analysis Project – 2016
+# Data_Science
+### 🚗 My_Uber_Drives_Analysis_–_2016
 * Conducted **data cleaning and preprocessing** on the Uber Drives dataset using Python libraries such as **Pandas, NumPy, and Seaborn**.
 * Removed duplicate and missing values using custom-defined functions and imputation techniques (mean/mode filling).
 * Performed **Exploratory Data Analysis (EDA)** to identify trends in ride frequency, trip categories, and customer travel patterns.
