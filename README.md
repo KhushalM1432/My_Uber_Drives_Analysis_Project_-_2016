@@ -1,6 +1,6 @@
-## Uber_Drives_Analysis - 2016 | Data_Science & Business_Analytics_Project | Python
+## Uber Drives Analysis - 2016 | Data Science & Business Analytics Project | Python
 
-## Data_Science
+## Data Science
 
 ## 🚗Project Highlights
 
